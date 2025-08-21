@@ -7,7 +7,7 @@ const About = () => {
       <div className="about-content">
         <img 
           src="/images/IMG-20250811-WA0013[1].jpg" // Replace with your photo URL
-          alt="suraj" 
+          alt="Your Name" 
           className="about-image"
         />
         <div className="about-text">
